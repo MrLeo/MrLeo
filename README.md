@@ -1,2 +1,2 @@
 <!-- https://github.com/lowlighter/metrics/tree/master -->
-![Metrics](https://metrics.lecoq.io/MrLeo)
+![](https://raw.githubusercontent.com/MrLeo/metrics/master/github-metrics.svg)
